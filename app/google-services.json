@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "987383092555",
+    "firebase_url": "https://mznapp-59637.firebaseio.com",
+    "project_id": "mznapp-59637",
+    "storage_bucket": "mznapp-59637.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987383092555:android:b135da256453b0b2",
+        "android_client_info": {
+          "package_name": "com.tradinos.mzn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987383092555-k6cidcm0f868of1m1h30chpljrraddsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMHXn13MC_wxB800qSPssAB0DoAwo3lpE"
+        },
+        {
+          "current_key": "AIzaSyCJWszyt2jMnuBK691KFbadQ9TYW3KOyc0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

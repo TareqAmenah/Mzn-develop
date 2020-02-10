@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FDA54B</color>
+    <color name="colorPrimaryDark">#FD860E</color>
+    <color name="colorAccent">#FDA54B</color>
+    <color name="colorSecondary">#384D4D</color>
+    <color name="colorAdditional1">#E4E4E4</color>
+    <color name="colorAdditional2">#9C2B02</color>
+
+</resources>

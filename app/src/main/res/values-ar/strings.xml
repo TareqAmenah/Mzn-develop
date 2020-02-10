@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mzn</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="category">الأصناف:</string>
+    <string name="channel_description">إشعار حول حالة الطلب</string>
+    <string name="channel_name">حالة الطلب</string>
+    <string name="currency_name">" د.إ"</string>
+    <string name="menu_gallery">المعرض</string>
+    <string name="menu_home">الواجهة الرئيسية</string>
+    <string name="menu_my_orders">طلباتي</string>
+    <string name="menu_send">إرسال</string>
+    <string name="menu_settings">الإعدادات</string>
+    <string name="menu_share">مشاركة</string>
+    <string name="menu_tools">الأدوات</string>
+    <string name="price">"السعر: "</string>
+    <string name="sizes">"الأحجام: "</string>
+    <string name="order_number">"رقم الطلب: "</string>
+    <string name="approved">مكتمل</string>
+    <string name="cancelled">مرفوض</string>
+    <string name="total">الإجمالي</string>
+    <string name="date">التاريخ</string>
+    <string name="details">التفاصيل</string>
+    <string name="item_name">اسم العنصر</string>
+    <string name="qua">العدد</string>
+    <string name="time">التوقيت</string>
+    <string name="address">العنوان</string>
+
+
+</resources>
